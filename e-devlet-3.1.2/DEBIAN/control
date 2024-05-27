@@ -1,0 +1,14 @@
+Source: e-devlet
+Section: utils
+Version: 3.1.2
+Priority: optional
+Maintainer: Mehmet Nuri ÖZTÜRK <info@mehmetnuri.net>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Installed-Size: 1292
+Homepage: https://www.turkiye.gov.tr
+Package: e-devlet
+Architecture: all
+Depends: openjdk-8-jre (>= 8) | openjdk-11-jre (>= 11) | openjdk-17-jre (<= 17)
+Description: E-Devlet Uygulaması
+ E-Devlet elektronik imza uygulaması.

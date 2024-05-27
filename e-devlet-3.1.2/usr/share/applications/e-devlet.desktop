@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=E-Devlet Uygulaması
+Comment=E-Devlet elektronik imza uygulaması
+Exec=/usr/local/bin/e-devlet.sh
+Icon=/usr/share/icons/hicolor/48x48/apps/e-devlet.png
+Terminal=false
+Type=Application
+Categories=Utility;
